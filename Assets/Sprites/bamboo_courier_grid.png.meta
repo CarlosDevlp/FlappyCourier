@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 5884cb3ba3ff18945b48f3ca8dc6a19c
+timeCreated: 1494440558
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bamboo_courier_grid_0
+    21300002: bamboo_courier_grid_1
+    21300004: bamboo_courier_grid_2
+    21300006: bamboo_courier_grid_3
+    21300008: bamboo_courier_grid_4
+    21300010: bamboo_courier_grid_5
+    21300012: bamboo_courier_grid_6
+    21300014: bamboo_courier_grid_7
+    21300016: bamboo_courier_grid_8
+    21300018: bamboo_courier_grid_9
+    21300020: bamboo_courier_grid_10
+    21300022: bamboo_courier_grid_11
+    21300024: bamboo_courier_grid_12
+    21300026: bamboo_courier_grid_13
+    21300028: bamboo_courier_grid_14
+    21300030: bamboo_courier_grid_15
+    21300032: bamboo_courier_grid_16
+    21300034: bamboo_courier_grid_17
+    21300036: bamboo_courier_grid_18
+    21300038: bamboo_courier_grid_19
+    21300040: bamboo_courier_grid_20
+    21300042: bamboo_courier_grid_21
+    21300044: bamboo_courier_grid_22
+    21300046: bamboo_courier_grid_23
+    21300048: bamboo_courier_grid_24
+    21300050: bamboo_courier_grid_25
+    21300052: bamboo_courier_grid_26
+    21300054: bamboo_courier_grid_27
+    21300056: bamboo_courier_grid_28
+    21300058: bamboo_courier_grid_29
+    21300060: bamboo_courier_grid_30
+    21300062: bamboo_courier_grid_31
+    21300064: bamboo_courier_grid_32
+    21300066: bamboo_courier_grid_33
+    21300068: bamboo_courier_grid_34
+    21300070: bamboo_courier_grid_35
+    21300072: bamboo_courier_grid_36
+    21300074: bamboo_courier_grid_37
+    21300076: bamboo_courier_grid_38
+    21300078: bamboo_courier_grid_39
+    21300080: bamboo_courier_grid_40
+    21300082: bamboo_courier_grid_41
+    21300084: bamboo_courier_grid_42
+    21300086: bamboo_courier_grid_43
+    21300088: bamboo_courier_grid_44
+    21300090: bamboo_courier_grid_45
+    21300092: bamboo_courier_grid_46
+    21300094: bamboo_courier_grid_47
+    21300096: bamboo_courier_grid_48
+    21300098: bamboo_courier_grid_49
+    21300100: bamboo_courier_grid_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bamboo_courier_grid_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1854
+        width: 174
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1854
+        width: 174
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1854
+        width: 174
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1849
+        width: 172
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_4
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1847
+        width: 171
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_5
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1844
+        width: 170
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_6
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1837
+        width: 169
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1579
+        width: 170
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1580
+        width: 176
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1583
+        width: 181
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_10
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1586
+        width: 183
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_11
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1590
+        width: 184
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_12
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1592
+        width: 185
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_13
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1595
+        width: 186
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_14
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1351
+        width: 184
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_15
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1495
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_16
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1352
+        width: 183
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1341
+        width: 189
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1344
+        width: 191
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1347
+        width: 191
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1348
+        width: 188
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1349
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1097
+        width: 182
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1099
+        width: 185
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_24
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1097
+        width: 190
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_25
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1095
+        width: 194
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1091
+        width: 193
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_27
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1087
+        width: 189
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_28
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1083
+        width: 187
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 822
+        width: 188
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 818
+        width: 191
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 816
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_32
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 816
+        width: 193
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 818
+        width: 186
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_34
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 820
+        width: 185
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_35
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 823
+        width: 186
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 571
+        width: 190
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 573
+        width: 194
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 575
+        width: 196
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 577
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_40
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 578
+        width: 194
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_41
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 579
+        width: 193
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_42
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 580
+        width: 189
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 325
+        width: 185
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_44
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 326
+        width: 182
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_45
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 328
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_46
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 329
+        width: 178
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_47
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 330
+        width: 177
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_48
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 329
+        width: 178
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_49
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 327
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bamboo_courier_grid_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67
+        width: 176
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

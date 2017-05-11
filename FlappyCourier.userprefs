@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ItemBoxController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\KillerController.cs" Line="4" Column="83" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="111" Column="1" />
+      <File FileName="Assets\Scripts\TowerController.cs" Line="18" Column="13" />
+      <File FileName="Assets\Scripts\TowerMakerController.cs" Line="7" Column="4" />
+      <File FileName="Assets\Scripts\ItemController.cs" Line="5" Column="3" />
+      <File FileName="Assets\Scripts\ItemBoxController.cs" Line="18" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
